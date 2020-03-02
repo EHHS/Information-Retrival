@@ -1,2 +1,4 @@
-# Information-Retrival
-Vector Space Model and Link Analysis Project using Python
+Implementation Information Retrieval Models- with GUI.
+
+Front-End : HTML & CSS.
+Back-End : Python & Flask.
